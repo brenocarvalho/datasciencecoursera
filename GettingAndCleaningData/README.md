@@ -8,4 +8,4 @@ The meaning of the files in this folder is:
 
 You can open the files HAR_Tidy.txt and Aggregated_HAR_Tidy.txt using the function read.csv from the default R package.
 
-All files in the folder UCI HAR Dataset were downloaded from [UCI]("http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones UCI Machine Learning Repository").
+All files in the folder UCI HAR Dataset were downloaded from [UCI](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones/ "UCI Machine Learning Repository").
